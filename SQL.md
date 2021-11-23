@@ -1,5 +1,5 @@
 
-## Assume you have a table T with the following structure:
+Assume you have a table T with the following structure:
 
 
 <table>
