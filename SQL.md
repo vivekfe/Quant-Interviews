@@ -1,20 +1,12 @@
 
-Assume you have a table T with the following structure:
+## Assume you have a table T with the following structure:
 
-LABEL	CPTY	VALUE
-BASE	A	123.45
-STRESS	A	234.56
-BASE	B	345.67
-STRESS	B	456.78
-BASE	C	567.89
-STRESS	C	678.90
-…	…	…
 
 <table>
 <tr>
-<td>LABEL </td>
-<td>CPTY</td>
-<td>VALUE</td>
+<td><B>LABEL</B> </td>
+<td><B>CPTY</B></td>
+<td><B>VALUE</B></td>
 </tr>
 
 <tr>
@@ -37,7 +29,7 @@ STRESS	C	678.90
 
 <tr>
 <td>STRESS</td>
-<td>B/td>
+<td>B</td>
 <td>456.78</td>
 </tr> 
 
@@ -70,8 +62,8 @@ The expected structure of the table is:
 
 <table>
 <tr>
-<td>CPTY </td>
-<td>IMPACT</td>
+<td><B>CPTY </B></td>
+<td><B>IMPACT</B></td>
 </tr>
 <tr>
 <td>A</td>
