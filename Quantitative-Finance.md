@@ -80,3 +80,40 @@
   * Have you tried pair programming? Do you like it or prefer to work alone?
   * What book about engineering you've read recently?
   * What bits of code cool projects did you enjoy the most (and why) and what bits did you not enjoy (and why)? 
+
+## Questions on Stochastic Calculus, General finance, Quant
+
+  * Difference b/w brownian motion and geometric brownian motion
+  * Explain how a bond works and how do we account for the bond transaction, whether assets or in liabilities?
+  * Explain gauss-markov assumptions
+  * Explain Quadratic Variance 
+  * Explain Skewness of a distribution, where does the mean lie
+  * What is the difference between american and european option
+  * How do you combine various datasets in R
+  * How does the logistic regression in R work
+  * Explain difference between VaR and Conditional VaR
+  * What is stationarity
+  * Explain cyclical components in a time series analysis
+  * Why do we use returns in modelling, why don't we use levels of the asset class
+  * Why can't we use normal calculus for option pricing and why do we use Ito calculus
+  * How do you start working on a code base if you are not the author of the project
+  * A farmer expects that the soy prices will go down. Should he short or long the soy futures?
+  * Explain about the most complecated programming project which was also quite impactful.
+  * Team management, direct reporting if done before
+
+## Questions for model validation interviews
+
+  * Explain one major project
+  * Explain Monte carlo simulation, how do you reduce variance of monte carlo results
+  * Integrate f(x) dx from 01 to 1 using Monte carlo simulation
+  * How do you solve partial differential equation such as heat equation
+  * Explain brownian motion and its properties
+  * Explain correlation
+  * What's the correlation of y and x if they follow y=cos(x)
+  * What's the correlation of y and x if they follow y=x
+  * Explain public, private and protected
+  * Integrate log x dx
+  * Crude monte carlo simulation
+  * Explain fork in Git
+
+
